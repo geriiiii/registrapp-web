@@ -55,7 +55,7 @@ window.onload = function () {
         webText.innerText = "Descarga la APP:";
 
         var webLink = document.createElement("a");
-        webLink.href = "https://geriiiii.github.io/registrapp-web/apk-release.apk";
+        webLink.href = "https://geriiiii.github.io/registrapp-web/app-release.apk";
         webLink.type = "button";
         webLink.classList.add("slide-in-bottom-subtitle", "bounce-top-icons", "text-white", "bg-gradient-to-br", "from-purple-600", "to-blue-500", "hover:bg-gradient-to-bl", "focus:ring-4", "focus:outline-none", "focus:ring-blue-300", "dark:focus:ring-blue-800", "font-medium", "rounded-lg", "text-sm", "px-5", "py-2.5", "text-center", "me-2", "mb-2", "fade-in");
         webLink.innerText = "RegistrAPP Android";
